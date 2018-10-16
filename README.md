@@ -54,7 +54,6 @@ The content of this file is described here:
 
 Label | Meaning
 ----- | -------
-
 **Text** | the name of the text.
 **Author** | the journal from where the text was originally published.
 **Adaptation** | who modified the text to adapt its difficulty to different grade level.
