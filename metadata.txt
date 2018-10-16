@@ -1,0 +1,61 @@
+Text; Author; Adaption; Date; Grade Level; Word Count; Lexile; Link; Scenario; Read Word Count
+PokemonGo; Washington Post; Newsela staff; 07.14.16; 5; 479; 800L; https://newsela.com/articles/pokemon-go-injuries/id/19400/; None; 479
+AlphaGo; Scientific American; Newsela staff; 02.04.16; 5; 643; 840L; https://newsela.com/articles/computer-gogame/id/14628/; None; 643
+Esport; Washington Post; Newsela staff; 09.30.15; 3; 425; 570L; https://newsela.com/articles/esports-popular/id/12131/; None; 425
+CodingEducation; Chicago Tribune; Newsela staff; 01.26.16; 4; 372; 760L; https://newsela.com/articles/coding-education/id/14452/; None; 372
+Youtube; Los Angeles Times; Newsela staff; 12.14.15; 5; 370; 890L; https://newsela.com/articles/youtube-streaming/id/13380/; None; 370 
+VirtualReality; Washington Post; Newsela staff; 05.25.16; 5; 411; 860L; https://newsela.com/articles/vr-sports/id/17817/; None; 411 
+FightAgainstTechnology; Project Syndicate; Newsela staff; 08.22.16; 5; 485; 900L; https://newsela.com/articles/innovation-discontents/id/20773/; None; 485
+ItalyHomeless; The Guardian; Newsela staff; 08.09.16; 5; 238; 910L; https://newsela.com/articles/food-italy-doggy-bag/id/20392/; None; 238 
+TripOnMars; Washington Post; Newsela staff; 09.05.16; 5; 470; 850L; https://newsela.com/articles/nasa-mars-hawaii-experiment/id/21228/; None; 470
+MacDonald; Associated Press; Newsela staff; 08.25.16; 5; 387; 870L; https://newsela.com/articles/happier-meal-mcdonalds/id/20799/; None; 387
+SatellitePoverty; Los Angeles Times; Newsela staff; 08.24.16; 4; 425; 770L; https://newsela.com/articles/poverty-from-space/id/20877/; None; 425
+Chimps; Scientific American; Newsela staff; 08.26.16; 5; 392; 860L; https://newsela.com/articles/chimps-reward-cooperation/id/20965/; None; 392 
+DogsHumans; Washington Post; Newsela staff; 09.09.16; 5; 415; 860L; https://newsela.com/articles/dog-brain-scan/id/21216/; None; 415
+MascotJapan; Washington Post; Newsela staff; 09.09.16; 4; 331; 730L; https://newsela.com/articles/japan-mascots/id/21380/; None; 331
+FifthForce; Los Angeles Times; No adaptation; 08.24.16; 5; 293; 810L; https://newsela.com/articles/physicist-fifth-force/id/20779/; None; 293 
+GiraffeDNA; Washington Post; Newsela staff; 05.26.16; 4; 472; 770L; https://newsela.com/articles/giraffe-genetics/id/17842/; None; 472
+RobotMars; Associated Press; Newsela staff; 05.26.16; 4; 437; 740L; https://newsela.com/articles/nasa-robots/id/17910/; None; 437
+SitToMuch; Los Angeles Times; Newsela staff; 03.03.14; 5; 253; 860L; https://newsela.com/articles/sedentary-health/id/2860/; None; 253   
+FemalePilot0; Baltimore Sun; Newsela staff; 09.13.16; 4; 161; 630L; https://newsela.com/articles/female-pilot-arlington/id/21473/; Rereading; 322
+FemalePilot; Baltimore Sun; Newsela staff; 09.13.16; 4; 161; 630L; https://newsela.com/articles/female-pilot-arlington/id/21473/; Rereading; 322
+GrizzlyBear0; East Bay Times; Newsela staff; 09.13.16; 5; 191; 900L; https://newsela.com/articles/grizzly-bear-ca-reintroduction/id/21445/; Rereading; 382
+GrizzlyBear; East Bay Times; Newsela staff; 09.13.16; 5; 191; 900L; https://newsela.com/articles/grizzly-bear-ca-reintroduction/id/21445/; Rereading; 279
+MayaBook0; Washington Post; Newsela staff; 09.13.16; 5; 161; 850L; https://newsela.com/articles/maya-calendar-oldest-manuscript/id/21489/; Rereading; 322 
+MayaBook; Washington Post; Newsela staff; 09.13.16; 5; 161; 850L; https://newsela.com/articles/maya-calendar-oldest-manuscript/id/21489/; Rereading; 322 
+SeaMonster0; Washington Post; Newsela staff; 09.13.16; 5; 216; 820L; https://newsela.com/articles/storr-lochs-monster/id/21394/; Rereading; 432
+SeaMonster; Washington Post; Newsela staff; 09.13.16; 5; 216; 820L; https://newsela.com/articles/storr-lochs-monster/id/21394/; Rereading; 323
+NissinNoodles0; Los Angeles Times; Newsela staff; 09.21.16; 5; 236; 830L; https://newsela.com/articles/cup-noodles-healthy/id/21709/; Rereading; 472
+NissinNoodles; Los Angeles Times; Newsela staff; 09.21.16; 5; 236; 830L; https://newsela.com/articles/cup-noodles-healthy/id/21709/; Rereading; 331
+AnimalPainting0; Washington Post; Newsela staff; 09.15.16; 4; 229; 790L; https://newsela.com/articles/zoo-paintings-animal-artists/id/21542/; Rereading; 458
+AnimalPainting; Washington Post; Newsela staff; 09.15.16; 4; 229; 790L; https://newsela.com/articles/zoo-paintings-animal-artists/id/21542/; Rereading; 353
+RepairSweden0; The Guardian; Newsela staff; 09.23.16; 5; 205; 900L; https://newsela.com/articles/sweden-tax-repairs/id/21904/; Skipping; 119
+RepairSweden; The Guardian; Newsela staff; 09.23.16; 5; 205; 900L; https://newsela.com/articles/sweden-tax-repairs/id/21904/; Skipping; 124      
+Wall0; The Guardian; Newela staff; 09.26.16; 5; 409; 870L; https://newsela.com/articles/murals-walls-peace-day/id/21958/; Skipping; 258
+Wall; The Guardian; Newela staff; 09.26.16; 5; 409; 870L; https://newsela.com/articles/murals-walls-peace-day/id/21958/; Skipping; 266
+ZukDisease0; Associated Press; Newsela staff; 09.26.16; 5; 298; 870L; https://newsela.com/articles/zuckerberg-disease-eradication/id/21949/; Skipping; 116
+ZukDisease; Associated Press; Newsela staff; 09.26.16; 5; 298; 870L; https://newsela.com/articles/zuckerberg-disease-eradication/id/21949/; Skipping; 130
+IndiaHappy0; The Guardian; Newsela staff; 09.28.16; 5; 303; 850L; https://newsela.com/articles/indian-happiness-institute/id/22041/; Skipping; 174
+IndiaHappy; The Guardian; Newsela staff; 09.28.16; 5; 303; 850L; https://newsela.com/articles/indian-happiness-institute/id/22041/; Skipping; 185
+CubaDogs0; Associated Press; Newsela staff; 09.27.16; 5; 405; 890L; https://newsela.com/articles/cuba-pampered-dogs/id/21928/; Skipping; 235
+CubaDogs; Associated Press; Newsela staff; 09.27.16; 5; 405; 890L; https://newsela.com/articles/cuba-pampered-dogs/id/21928/; Skipping; 244
+UsaDebate0; Associated Press; Newsela staff; 09.27.16; 5; 312; 900L; https://newsela.com/articles/first-presidential-debate/id/22172/; Skipping; 195
+UsaDebate; Associated Press; Newsela staff; 09.27.16; 5; 312; 900L; https://newsela.com/articles/first-presidential-debate/id/22172/; Skipping; 204
+PizzaRobot; Associated Press; Newsela staff; 09.20.16; 5; 283; 860L; https://newsela.com/articles/pizza-making-robots/id/21691/; Layout; 283
+DriverlessCar; The Marshall Project; Newsela staff; 10.06.16; 5; 381; 900L;  https://newsela.com/articles/pizza-making-robots/id/21691/; Layout; 381 
+ChildrenSchool; The Guardian; Newsela staff; 10.07.16; 5; 337; 840L; https://newsela.com/articles/implicit-bias-preschool/id/22523/; Layout; 337
+FoodBank; Associated Press; Newsela staff; 10.05.16; 5; 283; 880L; https://newsela.com/articles/produce-prescription/id/22358/; Layout; 283
+TaxSoda; Associated Press; Newsela staff; 10.03.16; 5; 221; 860L; https://newsela.com/articles/soda-tax-sf/id/22348/; Layout; 221   
+YourName; The Guardian; Newsela staff; 10.04.16; 5; 214; 870L; https://newsela.com/articles/your-name-japanese-movie/id/22372/; SideExp; 214
+AnotherPlanet; Washington Post; Newsela staff; 11.23.16; 5; 311; 820L; https://newsela.com/articles/doomsday-hawking/id/24200/; SideExp; 311
+IndianBill; The Guardian; Newsela staff; 11.16.16; 6; 456; 830L; https://newsela.com/articles/india-rupee/id/24010/; SideExp; 456
+HearingDamage; Washington Post; Newsela staff; 11.18.16; 5; 296; 820L; https://newsela.com/articles/headphone-earbuds/id/24097/; SideExp; 296
+BaltimoreSchool; Washington Post; Newsela staff; 11.17.16; 5; 280; 810L; https://newsela.com/articles/schools-mindfulness-practice/id/24052/; SideExp; 280
+PandaAmerica; Washington Post; Newsela staff; 11.23.16; 5; 325; 880L; https://newsela.com/articles/pandas-travel-china/id/24233/; SideExp; 325
+StudySoda; Los Angeles Times; Newsela staff; 11.03.16; 5; 369; 860L;  https://newsela.com/articles/sugary-drink-research/id/23634/; SideExp; 369
+FacebookNews; Washington Post; Newsela staff; 11.18.16; 5; 320; 840L; https://newsela.com/articles/facebook-google-fake-news/id/24139/; SideExp; 320
+OlderImpossible; Associated Press; Newsela staff; 10.13.16; 5; 323; 850L; https://newsela.com/articles/people-lifespans/id/22658/; SideExp; 323
+GirlsMaths; PBS; Newsela staff; 11.02.16; 5; 314; 790L; https://newsela.com/articles/math-gender-gap-kids/id/23543/; SideExp; 314
+TaxMilk; The Guardian; Newsela staff; 11.11.16; 5; 302; 890L; https://newsela.com/articles/cow-tax-climatechange/id/23842/; SideExp; 302 
+IndoorPlants; Associated Press; Newsela staff; 11.16.16; 6; 305; 930L; https://newsela.com/articles/arctic-farming/id/24021/; SideExp; 305
+PokemonHealth; Washington Post; Newsela staff; 10.19.16; 5; 417; 880L; https://newsela.com/articles/pokemon-go-health/id/22914/; SideExp; 417 
