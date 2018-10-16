@@ -59,7 +59,7 @@ Label | Meaning
 **Adaptation** | who modified the text to adapt its difficulty to different grade level.
 **Grade level** | difficulty of the texts (by school grade).
 **Word count** | the number of words.
-**Lexile** | difficulty of the text [Newsela Lexile scale](https://support.newsela.com/hc/en-us/articles/360008500391-Grade-to-Lexile-Conversion).
+**Lexile** | difficulty of the text [(Newsela Lexile scale)](https://support.newsela.com/hc/en-us/articles/360008500391-Grade-to-Lexile-Conversion).
 **Link** | url of the text.
 **Scenario** | *None* (no rereading, no skipping), *Rereading*, *Skipping*, *Layout* (the layout of the text is different), *SideExp* (equivalent to “None”).
 **Read Word Count** | number of words read by the reader (Greater in the Rereading scenario, Less in the Skipping scenario compared to “Word Count”).
