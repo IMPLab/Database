@@ -1,4 +1,4 @@
-**Introduction**
+#Introduction
 Reading is an activity we perform every day to entertain ourselves, to stay informed, to acquire knowledge. The content we read and the way we read it can tell a lot about ourselves. Therefore, researchers have studied our reading behaviors for decades. 
 
 Especially, they have used eye trackers system to record and analyze our eye movements while reading. From the way he moves his eyes, it is now possible to quantify the reader’s understanding, emotions or interest. Nowadays, researchers want to extract even more information  about the reader by analyzing his reading behavior. To do so, it might be necessary to use cutting edge machine learning technique such as deep learning. Deep learning has enabled outstanding results in various domains such as language processing, image recognition, etc. However, all the successful  research using such algorithms have one similarity: they need  huge datasets to perform well (ten thousands of pictures, hours of videos, millions of sentences, etc.).
