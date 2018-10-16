@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2016-09-29T06:11:40</Created>
+	<LastChange>2016-09-29T06:11:40</LastChange></Metadata>
+	<Page imageFilename="Chimps.png" imageWidth="1920" imageHeight="1080">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="80,77 182,77 182,78 382,78 382,126 577,126 577,163 445,163 445,203 197,203 197,211 79,211 79,173 80,173"/>
+	<TextLine id="r2">
+	<Coords points="80,77 182,77 182,78 382,78 382,107 182,107 182,115 80,115"/>
+	<Word id="r3">
+	<Coords points="80,77 182,77 182,115 80,115"/>
+	<TextEquiv>
+	<Unicode>Study</Unicode></TextEquiv></Word>
+	<Word id="r4">
+	<Coords points="195,78 298,78 298,107 195,107"/>
+	<TextEquiv>
+	<Unicode>shows</Unicode></TextEquiv></Word>
+	<Word id="r5">
+	<Coords points="311,78 382,78 382,107 311,107"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Study shows that</Unicode></TextEquiv></TextLine>
+	<TextLine id="r6">
+	<Coords points="80,125 306,125 306,126 577,126 577,163 423,163 423,155 306,155 306,163 80,163"/>
+	<Word id="r7">
+	<Coords points="80,125 306,125 306,163 80,163"/>
+	<TextEquiv>
+	<Unicode>chimpanzees</Unicode></TextEquiv></Word>
+	<Word id="r8">
+	<Coords points="318,126 412,126 412,155 318,155"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r9">
+	<Coords points="423,126 577,126 577,163 423,163"/>
+	<TextEquiv>
+	<Unicode>together,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>chimpanzees work together,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r10">
+	<Coords points="79,173 445,173 445,203 197,203 197,211 79,211"/>
+	<Word id="r11">
+	<Coords points="79,173 197,173 197,211 79,211"/>
+	<TextEquiv>
+	<Unicode>punish</Unicode></TextEquiv></Word>
+	<Word id="r12">
+	<Coords points="210,174 276,174 276,203 210,203"/>
+	<TextEquiv>
+	<Unicode>bad</Unicode></TextEquiv></Word>
+	<Word id="r13">
+	<Coords points="288,173 445,173 445,203 288,203"/>
+	<TextEquiv>
+	<Unicode>behavior</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>punish bad behavior</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Study shows that
+chimpanzees work together,
+punish bad behavior</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="79,233 593,233 593,256 615,256 615,284 616,284 616,294 586,294 586,298 261,298 261,321 207,321 207,317 79,317 79,294 78,294 78,281 79,281"/>
+	<TextLine id="r15">
+	<Coords points="79,233 593,233 593,248 485,248 485,251 413,251 413,252 364,252 364,248 191,248 191,252 79,252"/>
+	<Word id="r16">
+	<Coords points="79,233 191,233 191,252 79,252"/>
+	<TextEquiv>
+	<Unicode>Chimpanzees</Unicode></TextEquiv></Word>
+	<Word id="r17">
+	<Coords points="197,238 221,238 221,248 197,248"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r18">
+	<Coords points="226,233 295,233 295,248 226,248"/>
+	<TextEquiv>
+	<Unicode>humans‘</Unicode></TextEquiv></Word>
+	<Word id="r19">
+	<Coords points="302,233 358,233 358,248 302,248"/>
+	<TextEquiv>
+	<Unicode>closest</Unicode></TextEquiv></Word>
+	<Word id="r20">
+	<Coords points="364,233 413,233 413,252 364,252"/>
+	<TextEquiv>
+	<Unicode>living</Unicode></TextEquiv></Word>
+	<Word id="r21">
+	<Coords points="418,233 485,233 485,251 418,251"/>
+	<TextEquiv>
+	<Unicode>relative,</Unicode></TextEquiv></Word>
+	<Word id="r22">
+	<Coords points="492,233 521,233 521,248 492,248"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r23">
+	<Coords points="527,233 593,233 593,248 527,248"/>
+	<TextEquiv>
+	<Unicode>humans</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Chimpanzees are humans‘ closest living relative, and humans</Unicode></TextEquiv></TextLine>
+	<TextLine id="r24">
+	<Coords points="79,256 615,256 615,275 164,275 164,271 79,271"/>
+	<Word id="r25">
+	<Coords points="79,256 115,256 115,271 79,271"/>
+	<TextEquiv>
+	<Unicode>love</Unicode></TextEquiv></Word>
+	<Word id="r26">
+	<Coords points="120,256 159,256 159,271 120,271"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r27">
+	<Coords points="164,256 225,256 225,275 164,275"/>
+	<TextEquiv>
+	<Unicode>playful</Unicode></TextEquiv></Word>
+	<Word id="r28">
+	<Coords points="230,261 273,261 273,275 230,275"/>
+	<TextEquiv>
+	<Unicode>ways</Unicode></TextEquiv></Word>
+	<Word id="r29">
+	<Coords points="279,256 308,256 308,271 279,271"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r30">
+	<Coords points="315,256 341,256 341,275 315,275"/>
+	<TextEquiv>
+	<Unicode>big</Unicode></TextEquiv></Word>
+	<Word id="r31">
+	<Coords points="347,256 403,256 403,271 347,271"/>
+	<TextEquiv>
+	<Unicode>smiles.</Unicode></TextEquiv></Word>
+	<Word id="r32">
+	<Coords points="410,256 475,256 475,275 410,275"/>
+	<TextEquiv>
+	<Unicode>Chimps</Unicode></TextEquiv></Word>
+	<Word id="r33">
+	<Coords points="481,261 505,261 505,271 481,271"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r34">
+	<Coords points="511,256 543,256 543,271 511,271"/>
+	<TextEquiv>
+	<Unicode>also</Unicode></TextEquiv></Word>
+	<Word id="r35">
+	<Coords points="549,256 615,256 615,275 549,275"/>
+	<TextEquiv>
+	<Unicode>thought</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>love their playful ways and big smiles. Chimps are also thought</Unicode></TextEquiv></TextLine>
+	<TextLine id="r36">
+	<Coords points="100,279 586,279 586,284 616,284 616,294 586,294 586,298 196,298 196,294 78,294 78,281 100,281"/>
+	<Word id="r37">
+	<Coords points="78,281 94,281 94,294 78,294"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r38">
+	<Coords points="100,279 140,279 140,294 100,294"/>
+	<TextEquiv>
+	<Unicode>have</Unicode></TextEquiv></Word>
+	<Word id="r39">
+	<Coords points="146,284 154,284 154,294 146,294"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r40">
+	<Coords points="160,279 190,279 190,294 160,294"/>
+	<TextEquiv>
+	<Unicode>less</Unicode></TextEquiv></Word>
+	<Word id="r41">
+	<Coords points="196,279 263,279 263,298 196,298"/>
+	<TextEquiv>
+	<Unicode>friendly</Unicode></TextEquiv></Word>
+	<Word id="r42">
+	<Coords points="269,279 306,279 306,297 269,297"/>
+	<TextEquiv>
+	<Unicode>side,</Unicode></TextEquiv></Word>
+	<Word id="r43">
+	<Coords points="312,279 376,279 376,298 312,298"/>
+	<TextEquiv>
+	<Unicode>though.</Unicode></TextEquiv></Word>
+	<Word id="r44">
+	<Coords points="382,280 432,280 432,298 382,298"/>
+	<TextEquiv>
+	<Unicode>Many</Unicode></TextEquiv></Word>
+	<Word id="r45">
+	<Coords points="437,279 494,279 494,298 437,298"/>
+	<TextEquiv>
+	<Unicode>people</Unicode></TextEquiv></Word>
+	<Word id="r46">
+	<Coords points="499,279 544,279 544,294 499,294"/>
+	<TextEquiv>
+	<Unicode>think</Unicode></TextEquiv></Word>
+	<Word id="r47">
+	<Coords points="549,279 586,279 586,298 549,298"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<Word id="r48">
+	<Coords points="592,284 616,284 616,294 592,294"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>to have a less friendly side, though. Many people think they are</Unicode></TextEquiv></TextLine>
+	<TextLine id="r49">
+	<Coords points="79,302 261,302 261,321 207,321 207,317 79,317"/>
+	<Word id="r50">
+	<Coords points="79,302 166,302 166,317 79,317"/>
+	<TextEquiv>
+	<Unicode>combative</Unicode></TextEquiv></Word>
+	<Word id="r51">
+	<Coords points="172,302 201,302 201,317 172,317"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<Word id="r52">
+	<Coords points="207,302 261,302 261,321 207,321"/>
+	<TextEquiv>
+	<Unicode>rough.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>combative and rough.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Chimpanzees are humans‘ closest living relative, and humans
+love their playful ways and big smiles. Chimps are also thought
+to have a less friendly side, though. Many people think they are
+combative and rough.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r53" type="paragraph">
+	<Coords points="220,344 608,344 608,363 596,363 596,382 497,382 497,405 201,405 201,409 79,409 79,386 78,386 78,345 220,345"/>
+	<TextLine id="r54">
+	<Coords points="220,344 608,344 608,363 220,363 220,362 78,362 78,345 220,345"/>
+	<Word id="r55">
+	<Coords points="78,345 159,345 159,362 78,362"/>
+	<TextEquiv>
+	<Unicode>However,</Unicode></TextEquiv></Word>
+	<Word id="r56">
+	<Coords points="166,349 174,349 174,359 166,359"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r57">
+	<Coords points="179,349 214,349 214,359 179,359"/>
+	<TextEquiv>
+	<Unicode>new</Unicode></TextEquiv></Word>
+	<Word id="r58">
+	<Coords points="220,344 266,344 266,363 220,363"/>
+	<TextEquiv>
+	<Unicode>study</Unicode></TextEquiv></Word>
+	<Word id="r59">
+	<Coords points="272,344 324,344 324,359 272,359"/>
+	<TextEquiv>
+	<Unicode>shows</Unicode></TextEquiv></Word>
+	<Word id="r60">
+	<Coords points="329,344 361,344 361,359 329,359"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r61">
+	<Coords points="367,344 427,344 427,363 367,363"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r62">
+	<Coords points="432,349 468,349 468,363 432,363"/>
+	<TextEquiv>
+	<Unicode>may</Unicode></TextEquiv></Word>
+	<Word id="r63">
+	<Coords points="474,344 532,344 532,359 474,359"/>
+	<TextEquiv>
+	<Unicode>choose</Unicode></TextEquiv></Word>
+	<Word id="r64">
+	<Coords points="537,344 608,344 608,363 537,363"/>
+	<TextEquiv>
+	<Unicode>working</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>However, a new study shows that chimps may choose working</Unicode></TextEquiv></TextLine>
+	<TextLine id="r65">
+	<Coords points="78,367 563,367 563,369 596,369 596,382 484,382 484,386 78,386"/>
+	<Word id="r66">
+	<Coords points="78,367 147,367 147,386 78,386"/>
+	<TextEquiv>
+	<Unicode>together</Unicode></TextEquiv></Word>
+	<Word id="r67">
+	<Coords points="153,372 190,372 190,382 153,382"/>
+	<TextEquiv>
+	<Unicode>over</Unicode></TextEquiv></Word>
+	<Word id="r68">
+	<Coords points="196,367 266,367 266,386 196,386"/>
+	<TextEquiv>
+	<Unicode>ﬁghting.</Unicode></TextEquiv></Word>
+	<Word id="r69">
+	<Coords points="272,367 323,367 323,382 272,382"/>
+	<TextEquiv>
+	<Unicode>When</Unicode></TextEquiv></Word>
+	<Word id="r70">
+	<Coords points="328,367 365,367 365,386 328,386"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<Word id="r71">
+	<Coords points="371,367 391,367 391,382 371,382"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r72">
+	<Coords points="398,367 441,367 441,386 398,386"/>
+	<TextEquiv>
+	<Unicode>ﬁght,</Unicode></TextEquiv></Word>
+	<Word id="r73">
+	<Coords points="447,367 484,367 484,386 447,386"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<Word id="r74">
+	<Coords points="490,372 514,372 514,382 490,382"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r75">
+	<Coords points="520,367 563,367 563,382 520,382"/>
+	<TextEquiv>
+	<Unicode>often</Unicode></TextEquiv></Word>
+	<Word id="r76">
+	<Coords points="568,369 596,369 596,382 568,382"/>
+	<TextEquiv>
+	<Unicode>tar-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>together over ﬁghting. When they do ﬁght, they are often tar-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r77">
+	<Coords points="79,390 448,390 448,392 497,392 497,405 201,405 201,409 79,409"/>
+	<Word id="r78">
+	<Coords points="79,390 130,390 130,409 79,409"/>
+	<TextEquiv>
+	<Unicode>geting</Unicode></TextEquiv></Word>
+	<Word id="r79">
+	<Coords points="136,395 144,395 144,405 136,405"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r80">
+	<Coords points="150,390 201,390 201,409 150,409"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r81">
+	<Coords points="207,390 239,390 239,405 207,405"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r82">
+	<Coords points="244,390 303,390 303,405 244,405"/>
+	<TextEquiv>
+	<Unicode>refuses</Unicode></TextEquiv></Word>
+	<Word id="r83">
+	<Coords points="308,392 324,392 324,405 308,405"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r84">
+	<Coords points="330,390 374,390 374,405 330,405"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r85">
+	<Coords points="379,390 416,390 416,405 379,405"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r86">
+	<Coords points="422,390 448,390 448,405 422,405"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r87">
+	<Coords points="453,392 497,392 497,405 453,405"/>
+	<TextEquiv>
+	<Unicode>team.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>geting a chimp that refuses to work with the team.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>However, a new study shows that chimps may choose working
+together over ﬁghting. When they do ﬁght, they are often tar-
+geting a chimp that refuses to work with the team.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r88" type="paragraph">
+	<Coords points="79,437 553,437 553,458 397,458 397,465 308,465 308,458 154,458 154,465 79,465"/>
+	<TextLine id="r89">
+	<Coords points="79,437 553,437 553,458 397,458 397,465 308,465 308,458 154,458 154,465 79,465"/>
+	<Word id="r90">
+	<Coords points="79,437 154,437 154,465 79,465"/>
+	<TextEquiv>
+	<Unicode>Study</Unicode></TextEquiv></Word>
+	<Word id="r91">
+	<Coords points="163,437 299,437 299,458 163,458"/>
+	<TextEquiv>
+	<Unicode>Examined</Unicode></TextEquiv></Word>
+	<Word id="r92">
+	<Coords points="308,437 397,437 397,465 308,465"/>
+	<TextEquiv>
+	<Unicode>Chimp</Unicode></TextEquiv></Word>
+	<Word id="r93">
+	<Coords points="407,437 553,437 553,458 407,458"/>
+	<TextEquiv>
+	<Unicode>Teamwork</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Study Examined Chimp Teamwork</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Study Examined Chimp Teamwork</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r94" type="paragraph">
+	<Coords points="79,487 579,487 579,515 615,515 615,529 603,529 603,552 467,552 467,548 331,548 331,552 325,552 325,571 199,571 199,575 78,575 78,556 79,556"/>
+	<TextLine id="r95">
+	<Coords points="79,487 579,487 579,506 184,506 184,502 79,502"/>
+	<Word id="r96">
+	<Coords points="79,487 159,487 159,502 79,502"/>
+	<TextEquiv>
+	<Unicode>Scientists</Unicode></TextEquiv></Word>
+	<Word id="r97">
+	<Coords points="165,489 179,489 179,502 165,502"/>
+	<TextEquiv>
+	<Unicode>at</Unicode></TextEquiv></Word>
+	<Word id="r98">
+	<Coords points="184,488 242,488 242,506 184,506"/>
+	<TextEquiv>
+	<Unicode>Emory</Unicode></TextEquiv></Word>
+	<Word id="r99">
+	<Coords points="247,487 337,487 337,506 247,506"/>
+	<TextEquiv>
+	<Unicode>University</Unicode></TextEquiv></Word>
+	<Word id="r100">
+	<Coords points="343,487 403,487 403,502 343,502"/>
+	<TextEquiv>
+	<Unicode>studied</Unicode></TextEquiv></Word>
+	<Word id="r101">
+	<Coords points="412,488 417,488 417,502 412,502"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r102">
+	<Coords points="423,488 428,488 428,502 423,502"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="r103">
+	<Coords points="437,487 497,487 497,506 437,506"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r104">
+	<Coords points="503,487 519,487 519,502 503,502"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r105">
+	<Coords points="525,492 533,492 533,502 525,502"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r106">
+	<Coords points="539,487 579,487 579,506 539,506"/>
+	<TextEquiv>
+	<Unicode>large</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Scientists at Emory University studied 1 1 chimps in a large</Unicode></TextEquiv></TextLine>
+	<TextLine id="r107">
+	<Coords points="79,510 545,510 545,515 615,515 615,529 427,529 427,525 253,525 253,529 210,529 210,525 79,525"/>
+	<Word id="r108">
+	<Coords points="79,510 129,510 129,525 79,525"/>
+	<TextEquiv>
+	<Unicode>sealed</Unicode></TextEquiv></Word>
+	<Word id="r109">
+	<Coords points="136,510 162,510 162,525 136,525"/>
+	<TextEquiv>
+	<Unicode>off</Unicode></TextEquiv></Word>
+	<Word id="r110">
+	<Coords points="166,515 203,515 203,525 166,525"/>
+	<TextEquiv>
+	<Unicode>area.</Unicode></TextEquiv></Word>
+	<Word id="r111">
+	<Coords points="210,510 253,510 253,529 210,529"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r112">
+	<Coords points="258,510 318,510 318,525 258,525"/>
+	<TextEquiv>
+	<Unicode>wanted</Unicode></TextEquiv></Word>
+	<Word id="r113">
+	<Coords points="324,512 340,512 340,525 324,525"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r114">
+	<Coords points="347,515 372,515 372,525 347,525"/>
+	<TextEquiv>
+	<Unicode>see</Unicode></TextEquiv></Word>
+	<Word id="r115">
+	<Coords points="378,510 421,510 421,525 378,525"/>
+	<TextEquiv>
+	<Unicode>ifthe</Unicode></TextEquiv></Word>
+	<Word id="r116">
+	<Coords points="427,510 487,510 487,529 427,529"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r117">
+	<Coords points="492,510 545,510 545,525 492,525"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r118">
+	<Coords points="552,515 615,515 615,529 552,529"/>
+	<TextEquiv>
+	<Unicode>cooper-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>sealed off area. They wanted to see ifthe chimps would cooper-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r119">
+	<Coords points="113,533 331,533 331,535 467,535 467,533 603,533 603,552 467,552 467,548 331,548 331,552 113,552 113,548 79,548 79,535 113,535"/>
+	<Word id="r120">
+	<Coords points="79,535 106,535 106,548 79,548"/>
+	<TextEquiv>
+	<Unicode>ate.</Unicode></TextEquiv></Word>
+	<Word id="r121">
+	<Coords points="113,533 156,533 156,552 113,552"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r122">
+	<Coords points="162,533 224,533 224,548 162,548"/>
+	<TextEquiv>
+	<Unicode>deﬁned</Unicode></TextEquiv></Word>
+	<Word id="r123">
+	<Coords points="231,533 331,533 331,552 231,552"/>
+	<TextEquiv>
+	<Unicode>cooperation</Unicode></TextEquiv></Word>
+	<Word id="r124">
+	<Coords points="337,538 353,538 353,548 337,548"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r125">
+	<Coords points="358,535 389,535 389,548 358,548"/>
+	<TextEquiv>
+	<Unicode>two</Unicode></TextEquiv></Word>
+	<Word id="r126">
+	<Coords points="396,538 413,538 413,548 396,548"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r127">
+	<Coords points="418,538 461,538 461,548 418,548"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r128">
+	<Coords points="467,533 527,533 527,552 467,552"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r129">
+	<Coords points="532,533 603,533 603,552 532,552"/>
+	<TextEquiv>
+	<Unicode>working</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ate. They deﬁned cooperation as two or more chimps working</Unicode></TextEquiv></TextLine>
+	<TextLine id="r130">
+	<Coords points="78,556 325,556 325,571 199,571 199,575 78,575"/>
+	<Word id="r131">
+	<Coords points="78,556 147,556 147,575 78,575"/>
+	<TextEquiv>
+	<Unicode>together</Unicode></TextEquiv></Word>
+	<Word id="r132">
+	<Coords points="152,558 168,558 168,571 152,571"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r133">
+	<Coords points="175,558 199,558 199,575 175,575"/>
+	<TextEquiv>
+	<Unicode>get</Unicode></TextEquiv></Word>
+	<Word id="r134">
+	<Coords points="205,561 213,561 213,571 205,571"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r135">
+	<Coords points="219,556 257,556 257,571 219,571"/>
+	<TextEquiv>
+	<Unicode>food</Unicode></TextEquiv></Word>
+	<Word id="r136">
+	<Coords points="263,556 325,556 325,571 263,571"/>
+	<TextEquiv>
+	<Unicode>reward.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>together to get a food reward.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Scientists at Emory University studied 1 1 chimps in a large
+sealed off area. They wanted to see ifthe chimps would cooper-
+ate. They deﬁned cooperation as two or more chimps working
+together to get a food reward.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r137" type="paragraph">
+	<Coords points="105,598 281,598 281,600 387,600 387,599 426,599 426,598 615,598 615,644 616,644 616,659 603,659 603,682 567,682 567,705 453,705 453,709 271,709 271,728 191,728 191,732 167,732 167,728 78,728 78,599 105,599"/>
+	<TextLine id="r138">
+	<Coords points="105,598 281,598 281,600 387,600 387,599 426,599 426,598 615,598 615,616 535,616 535,617 514,617 514,613 380,613 380,617 354,617 354,613 246,613 246,617 186,617 186,616 105,616 105,613 78,613 78,599 105,599"/>
+	<Word id="r139">
+	<Coords points="78,599 99,599 99,613 78,613"/>
+	<TextEquiv>
+	<Unicode>At</Unicode></TextEquiv></Word>
+	<Word id="r140">
+	<Coords points="105,598 142,598 142,616 105,616"/>
+	<TextEquiv>
+	<Unicode>ﬁrst,</Unicode></TextEquiv></Word>
+	<Word id="r141">
+	<Coords points="148,600 179,600 179,613 148,613"/>
+	<TextEquiv>
+	<Unicode>two</Unicode></TextEquiv></Word>
+	<Word id="r142">
+	<Coords points="186,598 246,598 246,617 186,617"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r143">
+	<Coords points="251,598 281,598 281,613 251,613"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r144">
+	<Coords points="287,600 303,600 303,613 287,613"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r145">
+	<Coords points="309,600 349,600 349,613 309,613"/>
+	<TextEquiv>
+	<Unicode>team</Unicode></TextEquiv></Word>
+	<Word id="r146">
+	<Coords points="354,603 380,603 380,617 354,617"/>
+	<TextEquiv>
+	<Unicode>up.</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="387,599 421,599 421,613 387,613"/>
+	<TextEquiv>
+	<Unicode>One</Unicode></TextEquiv></Word>
+	<Word id="r148">
+	<Coords points="426,598 456,598 456,613 426,613"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r149">
+	<Coords points="462,600 478,600 478,613 462,613"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="485,598 509,598 509,613 485,613"/>
+	<TextEquiv>
+	<Unicode>lift</Unicode></TextEquiv></Word>
+	<Word id="r151">
+	<Coords points="514,603 535,603 535,617 514,617"/>
+	<TextEquiv>
+	<Unicode>up</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="542,603 550,603 550,613 542,613"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r153">
+	<Coords points="556,598 615,598 615,616 556,616"/>
+	<TextEquiv>
+	<Unicode>barrier,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>At ﬁrst, two chimps had to team up. One had to lift up a barrier,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r154">
+	<Coords points="79,621 602,621 602,636 570,636 570,639 522,639 522,636 337,636 337,640 298,640 298,636 166,636 166,640 79,640"/>
+	<Word id="r155">
+	<Coords points="79,621 166,621 166,640 79,640"/>
+	<TextEquiv>
+	<Unicode>something</Unicode></TextEquiv></Word>
+	<Word id="r156">
+	<Coords points="171,621 203,621 203,636 171,636"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r157">
+	<Coords points="208,626 240,626 240,636 208,636"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r158">
+	<Coords points="246,621 262,621 262,636 246,636"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="267,621 293,621 293,636 267,636"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r160">
+	<Coords points="298,626 337,626 337,640 298,640"/>
+	<TextEquiv>
+	<Unicode>way.</Unicode></TextEquiv></Word>
+	<Word id="r161">
+	<Coords points="344,622 387,622 387,636 344,636"/>
+	<TextEquiv>
+	<Unicode>Once</Unicode></TextEquiv></Word>
+	<Word id="r162">
+	<Coords points="392,621 418,621 418,636 392,636"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r163">
+	<Coords points="424,621 479,621 479,636 424,636"/>
+	<TextEquiv>
+	<Unicode>barrier</Unicode></TextEquiv></Word>
+	<Word id="r164">
+	<Coords points="484,626 516,626 516,636 484,636"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r165">
+	<Coords points="522,621 570,621 570,639 522,639"/>
+	<TextEquiv>
+	<Unicode>lifted,</Unicode></TextEquiv></Word>
+	<Word id="r166">
+	<Coords points="576,621 602,621 602,636 576,636"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>something that was in the way. Once the barrier was lifted, the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r167">
+	<Coords points="79,644 616,644 616,659 513,659 513,663 302,663 302,659 179,659 179,663 128,663 128,659 79,659"/>
+	<Word id="r168">
+	<Coords points="79,644 122,644 122,659 79,659"/>
+	<TextEquiv>
+	<Unicode>other</Unicode></TextEquiv></Word>
+	<Word id="r169">
+	<Coords points="128,644 179,644 179,663 128,663"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r170">
+	<Coords points="186,644 232,644 232,659 186,659"/>
+	<TextEquiv>
+	<Unicode>could</Unicode></TextEquiv></Word>
+	<Word id="r171">
+	<Coords points="238,644 282,644 282,659 238,659"/>
+	<TextEquiv>
+	<Unicode>reach</Unicode></TextEquiv></Word>
+	<Word id="r172">
+	<Coords points="289,649 297,649 297,659 289,659"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r173">
+	<Coords points="302,646 335,646 335,663 302,663"/>
+	<TextEquiv>
+	<Unicode>tray</Unicode></TextEquiv></Word>
+	<Word id="r174">
+	<Coords points="340,644 406,644 406,663 340,663"/>
+	<TextEquiv>
+	<Unicode>holding</Unicode></TextEquiv></Word>
+	<Word id="r175">
+	<Coords points="412,644 456,644 456,659 412,659"/>
+	<TextEquiv>
+	<Unicode>small</Unicode></TextEquiv></Word>
+	<Word id="r176">
+	<Coords points="461,644 513,644 513,663 461,663"/>
+	<TextEquiv>
+	<Unicode>pieces</Unicode></TextEquiv></Word>
+	<Word id="r177">
+	<Coords points="519,644 538,644 538,659 519,659"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="542,644 582,644 582,659 542,659"/>
+	<TextEquiv>
+	<Unicode>fruit.</Unicode></TextEquiv></Word>
+	<Word id="r179">
+	<Coords points="588,644 616,644 616,659 588,659"/>
+	<TextEquiv>
+	<Unicode>Af-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>other chimp could reach a tray holding small pieces of fruit. Af-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r180">
+	<Coords points="143,667 603,667 603,682 550,682 550,686 280,686 280,682 78,682 78,669 143,669"/>
+	<Word id="r181">
+	<Coords points="78,669 100,669 100,682 78,682"/>
+	<TextEquiv>
+	<Unicode>ter</Unicode></TextEquiv></Word>
+	<Word id="r182">
+	<Coords points="105,669 136,669 136,682 105,682"/>
+	<TextEquiv>
+	<Unicode>two</Unicode></TextEquiv></Word>
+	<Word id="r183">
+	<Coords points="143,667 203,667 203,682 143,682"/>
+	<TextEquiv>
+	<Unicode>learned</Unicode></TextEquiv></Word>
+	<Word id="r184">
+	<Coords points="209,669 225,669 225,682 209,682"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r185">
+	<Coords points="231,667 275,667 275,682 231,682"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="280,667 353,667 353,686 280,686"/>
+	<TextEquiv>
+	<Unicode>together,</Unicode></TextEquiv></Word>
+	<Word id="r187">
+	<Coords points="360,667 423,667 423,682 360,682"/>
+	<TextEquiv>
+	<Unicode>another</Unicode></TextEquiv></Word>
+	<Word id="r188">
+	<Coords points="429,667 480,667 480,686 429,686"/>
+	<TextEquiv>
+	<Unicode>object</Unicode></TextEquiv></Word>
+	<Word id="r189">
+	<Coords points="485,672 517,672 517,682 485,682"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r190">
+	<Coords points="522,669 550,669 550,686 522,686"/>
+	<TextEquiv>
+	<Unicode>put</Unicode></TextEquiv></Word>
+	<Word id="r191">
+	<Coords points="556,667 572,667 572,682 556,682"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r192">
+	<Coords points="577,667 603,667 603,682 577,682"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ter two learned to work together, another object was put in the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r193">
+	<Coords points="124,690 567,690 567,705 453,705 453,709 332,709 332,705 117,705 117,709 78,709 78,695 124,695"/>
+	<Word id="r194">
+	<Coords points="78,695 117,695 117,709 78,709"/>
+	<TextEquiv>
+	<Unicode>way.</Unicode></TextEquiv></Word>
+	<Word id="r195">
+	<Coords points="124,690 156,690 156,705 124,705"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="161,692 201,692 201,705 161,705"/>
+	<TextEquiv>
+	<Unicode>team</Unicode></TextEquiv></Word>
+	<Word id="r197">
+	<Coords points="206,690 265,690 265,705 206,705"/>
+	<TextEquiv>
+	<Unicode>needed</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="272,695 280,695 280,705 272,705"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r199">
+	<Coords points="285,690 325,690 325,705 285,705"/>
+	<TextEquiv>
+	<Unicode>third</Unicode></TextEquiv></Word>
+	<Word id="r200">
+	<Coords points="332,690 383,690 383,709 332,709"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r201">
+	<Coords points="389,692 405,692 405,705 389,705"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r202">
+	<Coords points="411,690 453,690 453,709 411,709"/>
+	<TextEquiv>
+	<Unicode>pitch</Unicode></TextEquiv></Word>
+	<Word id="r203">
+	<Coords points="460,690 476,690 476,705 460,705"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r204">
+	<Coords points="482,690 496,690 496,705 482,705"/>
+	<TextEquiv>
+	<Unicode>if</Unicode></TextEquiv></Word>
+	<Word id="r205">
+	<Coords points="500,690 520,690 520,705 500,705"/>
+	<TextEquiv>
+	<Unicode>all</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="525,690 567,690 567,705 525,705"/>
+	<TextEquiv>
+	<Unicode>three</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>way. The team needed a third chimp to pitch in if all three</Unicode></TextEquiv></TextLine>
+	<TextLine id="r207">
+	<Coords points="78,713 271,713 271,728 191,728 191,732 167,732 167,728 78,728"/>
+	<Word id="r208">
+	<Coords points="78,713 138,713 138,728 78,728"/>
+	<TextEquiv>
+	<Unicode>wanted</Unicode></TextEquiv></Word>
+	<Word id="r209">
+	<Coords points="144,715 160,715 160,728 144,728"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="167,715 191,715 191,732 167,732"/>
+	<TextEquiv>
+	<Unicode>get</Unicode></TextEquiv></Word>
+	<Word id="r211">
+	<Coords points="196,713 222,713 222,728 196,728"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r212">
+	<Coords points="228,713 271,713 271,728 228,728"/>
+	<TextEquiv>
+	<Unicode>food.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>wanted to get the food.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>At ﬁrst, two chimps had to team up. One had to lift up a barrier,
+something that was in the way. Once the barrier was lifted, the
+other chimp could reach a tray holding small pieces of fruit. Af-
+ter two learned to work together, another object was put in the
+way. The team needed a third chimp to pitch in if all three
+wanted to get the food.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r213" type="paragraph">
+	<Coords points="79,755 366,755 366,757 475,757 475,755 589,755 589,778 600,778 600,797 572,797 572,816 479,816 479,820 419,820 419,839 398,839 398,843 341,843 341,839 210,839 210,843 149,843 149,839 78,839 78,824 79,824"/>
+	<TextLine id="r214">
+	<Coords points="79,755 366,755 366,757 475,757 475,755 589,755 589,770 468,770 468,774 394,774 394,770 272,770 272,774 117,774 117,770 79,770"/>
+	<Word id="r215">
+	<Coords points="79,755 111,755 111,770 79,770"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r216">
+	<Coords points="117,755 177,755 177,774 117,774"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r217">
+	<Coords points="182,755 212,755 212,770 182,770"/>
+	<TextEquiv>
+	<Unicode>had</Unicode></TextEquiv></Word>
+	<Word id="r218">
+	<Coords points="218,755 272,755 272,774 218,774"/>
+	<TextEquiv>
+	<Unicode>plenty</Unicode></TextEquiv></Word>
+	<Word id="r219">
+	<Coords points="278,755 297,755 297,770 278,770"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r220">
+	<Coords points="301,755 366,755 366,770 301,770"/>
+	<TextEquiv>
+	<Unicode>chances</Unicode></TextEquiv></Word>
+	<Word id="r221">
+	<Coords points="371,757 387,757 387,770 371,770"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r222">
+	<Coords points="394,757 468,757 468,774 394,774"/>
+	<TextEquiv>
+	<Unicode>compete.</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="475,755 507,755 507,770 475,770"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r224">
+	<Coords points="513,755 589,755 589,770 513,770"/>
+	<TextEquiv>
+	<Unicode>scientists</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The chimps had plenty of chances to compete. The scientists</Unicode></TextEquiv></TextLine>
+	<TextLine id="r225">
+	<Coords points="79,778 600,778 600,797 148,797 148,793 79,793"/>
+	<Word id="r226">
+	<Coords points="79,778 141,778 141,793 79,793"/>
+	<TextEquiv>
+	<Unicode>deﬁned</Unicode></TextEquiv></Word>
+	<Word id="r227">
+	<Coords points="148,778 267,778 267,797 148,797"/>
+	<TextEquiv>
+	<Unicode>“competition"</Unicode></TextEquiv></Word>
+	<Word id="r228">
+	<Coords points="273,783 329,783 329,797 273,797"/>
+	<TextEquiv>
+	<Unicode>among</Unicode></TextEquiv></Word>
+	<Word id="r229">
+	<Coords points="334,778 360,778 360,793 334,793"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r230">
+	<Coords points="366,778 426,778 426,797 366,797"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r231">
+	<Coords points="432,783 448,783 448,793 432,793"/>
+	<TextEquiv>
+	<Unicode>as</Unicode></TextEquiv></Word>
+	<Word id="r232">
+	<Coords points="453,778 524,778 524,797 453,797"/>
+	<TextEquiv>
+	<Unicode>physical</Unicode></TextEquiv></Word>
+	<Word id="r233">
+	<Coords points="530,778 600,778 600,797 530,797"/>
+	<TextEquiv>
+	<Unicode>ﬁghting,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>deﬁned “competition" among the chimps as physical ﬁghting,</Unicode></TextEquiv></TextLine>
+	<TextLine id="r234">
+	<Coords points="79,801 572,801 572,816 479,816 479,820 79,820"/>
+	<Word id="r235">
+	<Coords points="79,801 154,801 154,820 79,820"/>
+	<TextEquiv>
+	<Unicode>bullying,</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="161,806 178,806 178,816 161,816"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r237">
+	<Coords points="184,801 283,801 283,820 184,820"/>
+	<TextEquiv>
+	<Unicode>freeloading.</Unicode></TextEquiv></Word>
+	<Word id="r238">
+	<Coords points="289,801 390,801 390,820 289,820"/>
+	<TextEquiv>
+	<Unicode>Freeloading</Unicode></TextEquiv></Word>
+	<Word id="r239">
+	<Coords points="396,801 409,801 409,816 396,816"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r240">
+	<Coords points="415,801 479,801 479,820 415,820"/>
+	<TextEquiv>
+	<Unicode>stealing</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="484,801 510,801 510,816 484,816"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r242">
+	<Coords points="515,801 572,801 572,816 515,816"/>
+	<TextEquiv>
+	<Unicode>reward</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>bullying, or freeloading. Freeloading is stealing the reward</Unicode></TextEquiv></TextLine>
+	<TextLine id="r243">
+	<Coords points="78,824 419,824 419,839 398,839 398,843 341,843 341,839 210,839 210,843 149,843 149,839 78,839"/>
+	<Word id="r244">
+	<Coords points="78,824 144,824 144,839 78,839"/>
+	<TextEquiv>
+	<Unicode>without</Unicode></TextEquiv></Word>
+	<Word id="r245">
+	<Coords points="149,824 210,824 210,843 149,843"/>
+	<TextEquiv>
+	<Unicode>putting</Unicode></TextEquiv></Word>
+	<Word id="r246">
+	<Coords points="216,824 232,824 232,839 216,839"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="r247">
+	<Coords points="237,824 263,824 263,839 237,839"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r248">
+	<Coords points="268,824 312,824 312,839 268,839"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r249">
+	<Coords points="318,824 337,824 337,839 318,839"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="341,824 398,824 398,843 341,843"/>
+	<TextEquiv>
+	<Unicode>getting</Unicode></TextEquiv></Word>
+	<Word id="r251">
+	<Coords points="404,824 419,824 419,839 404,839"/>
+	<TextEquiv>
+	<Unicode>it.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>without putting in the work of getting it.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The chimps had plenty of chances to compete. The scientists
+deﬁned “competition" among the chimps as physical ﬁghting,
+bullying, or freeloading. Freeloading is stealing the reward
+without putting in the work of getting it.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r252" type="paragraph">
+	<Coords points="79,871 617,871 617,899 79,899"/>
+	<TextLine id="r253">
+	<Coords points="79,871 617,871 617,899 79,899"/>
+	<Word id="r254">
+	<Coords points="79,871 180,871 180,899 79,899"/>
+	<TextEquiv>
+	<Unicode>Chimps</Unicode></TextEquiv></Word>
+	<Word id="r255">
+	<Coords points="189,871 304,871 304,899 189,899"/>
+	<TextEquiv>
+	<Unicode>Rejected</Unicode></TextEquiv></Word>
+	<Word id="r256">
+	<Coords points="312,871 506,871 506,899 312,899"/>
+	<TextEquiv>
+	<Unicode>Uncooperative</Unicode></TextEquiv></Word>
+	<Word id="r257">
+	<Coords points="516,871 617,871 617,899 516,899"/>
+	<TextEquiv>
+	<Unicode>Chimps</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Chimps Rejected Uncooperative Chimps</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Chimps Rejected Uncooperative Chimps</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r258" type="paragraph">
+	<Coords points="79,921 608,921 608,936 601,936 601,959 549,959 549,962 445,962 445,963 343,963 343,959 147,959 147,963 78,963 78,944 79,944"/>
+	<TextLine id="r259">
+	<Coords points="79,921 608,921 608,936 540,936 540,940 385,940 385,936 79,936"/>
+	<Word id="r260">
+	<Coords points="79,921 111,921 111,936 79,936"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r261">
+	<Coords points="117,921 193,921 193,936 117,936"/>
+	<TextEquiv>
+	<Unicode>scientists</Unicode></TextEquiv></Word>
+	<Word id="r262">
+	<Coords points="199,921 259,921 259,936 199,936"/>
+	<TextEquiv>
+	<Unicode>learned</Unicode></TextEquiv></Word>
+	<Word id="r263">
+	<Coords points="266,926 274,926 274,936 266,936"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r264">
+	<Coords points="280,921 302,921 302,936 280,936"/>
+	<TextEquiv>
+	<Unicode>lot</Unicode></TextEquiv></Word>
+	<Word id="r265">
+	<Coords points="308,921 348,921 348,936 308,936"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r266">
+	<Coords points="353,921 379,921 379,936 353,936"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r267">
+	<Coords points="385,921 435,921 435,940 385,940"/>
+	<TextEquiv>
+	<Unicode>study.</Unicode></TextEquiv></Word>
+	<Word id="r268">
+	<Coords points="442,921 474,921 474,936 442,936"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<Word id="r269">
+	<Coords points="480,921 540,921 540,940 480,940"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r270">
+	<Coords points="545,921 608,921 608,936 545,936"/>
+	<TextEquiv>
+	<Unicode>worked</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>The scientists learned a lot from the study. The chimps worked</Unicode></TextEquiv></TextLine>
+	<TextLine id="r271">
+	<Coords points="78,944 601,944 601,959 549,959 549,962 445,962 445,963 343,963 343,959 147,959 147,963 78,963"/>
+	<Word id="r272">
+	<Coords points="78,944 147,944 147,963 78,963"/>
+	<TextEquiv>
+	<Unicode>together</Unicode></TextEquiv></Word>
+	<Word id="r273">
+	<Coords points="152,944 198,944 198,959 152,959"/>
+	<TextEquiv>
+	<Unicode>much</Unicode></TextEquiv></Word>
+	<Word id="r274">
+	<Coords points="204,949 247,949 247,959 204,959"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r275">
+	<Coords points="253,944 296,944 296,959 253,959"/>
+	<TextEquiv>
+	<Unicode>often</Unicode></TextEquiv></Word>
+	<Word id="r276">
+	<Coords points="301,944 338,944 338,959 301,959"/>
+	<TextEquiv>
+	<Unicode>than</Unicode></TextEquiv></Word>
+	<Word id="r277">
+	<Coords points="343,944 380,944 380,963 343,963"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<Word id="r278">
+	<Coords points="386,944 445,944 445,963 386,963"/>
+	<TextEquiv>
+	<Unicode>fought.</Unicode></TextEquiv></Word>
+	<Word id="r279">
+	<Coords points="451,945 469,945 469,959 451,959"/>
+	<TextEquiv>
+	<Unicode>In</Unicode></TextEquiv></Word>
+	<Word id="r280">
+	<Coords points="475,944 549,944 549,962 475,962"/>
+	<TextEquiv>
+	<Unicode>addition,</Unicode></TextEquiv></Word>
+	<Word id="r281">
+	<Coords points="555,944 601,944 601,959 555,959"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>together much more often than they fought. In addition, when</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>The scientists learned a lot from the study. The chimps worked
+together much more often than they fought. In addition, when</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r282" type="paragraph">
+	<Coords points="726,70 821,70 821,72 930,72 930,70 1209,70 1209,85 1204,85 1204,108 1168,108 1168,112 987,112 987,131 917,131 917,135 690,135 690,108 689,108 689,93 690,93 690,75 726,75"/>
+	<TextLine id="r283">
+	<Coords points="726,70 821,70 821,72 930,72 930,70 1209,70 1209,85 1141,85 1141,89 1084,89 1084,85 924,85 924,89 726,89 726,85 690,85 690,75 726,75"/>
+	<Word id="r284">
+	<Coords points="690,75 720,75 720,85 690,85"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r285">
+	<Coords points="726,70 777,70 777,89 726,89"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r286">
+	<Coords points="783,70 821,70 821,85 783,85"/>
+	<TextEquiv>
+	<Unicode>tried</Unicode></TextEquiv></Word>
+	<Word id="r287">
+	<Coords points="827,72 843,72 843,85 827,85"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r288">
+	<Coords points="850,72 924,72 924,89 850,89"/>
+	<TextEquiv>
+	<Unicode>compete,</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="930,70 956,70 956,85 930,85"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r290">
+	<Coords points="962,70 1013,70 1013,85 962,85"/>
+	<TextEquiv>
+	<Unicode>others</Unicode></TextEquiv></Word>
+	<Word id="r291">
+	<Coords points="1018,70 1056,70 1056,85 1018,85"/>
+	<TextEquiv>
+	<Unicode>tried</Unicode></TextEquiv></Word>
+	<Word id="r292">
+	<Coords points="1062,72 1078,72 1078,85 1062,85"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r293">
+	<Coords points="1084,70 1141,70 1141,89 1084,89"/>
+	<TextEquiv>
+	<Unicode>punish</Unicode></TextEquiv></Word>
+	<Word id="r294">
+	<Coords points="1147,70 1178,70 1178,85 1147,85"/>
+	<TextEquiv>
+	<Unicode>this</Unicode></TextEquiv></Word>
+	<Word id="r295">
+	<Coords points="1184,70 1209,70 1209,85 1184,85"/>
+	<TextEquiv>
+	<Unicode>be-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>one chimp tried to compete, the others tried to punish this be-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r296">
+	<Coords points="689,93 1204,93 1204,108 1168,108 1168,112 1047,112 1047,108 798,108 798,112 755,112 755,108 689,108"/>
+	<Word id="r297">
+	<Coords points="689,93 748,93 748,108 689,108"/>
+	<TextEquiv>
+	<Unicode>havior.</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="755,93 798,93 798,112 755,112"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r299">
+	<Coords points="803,93 856,93 856,108 803,108"/>
+	<TextEquiv>
+	<Unicode>would</Unicode></TextEquiv></Word>
+	<Word id="r300">
+	<Coords points="862,93 906,93 906,108 862,108"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r301">
+	<Coords points="911,93 948,93 948,108 911,108"/>
+	<TextEquiv>
+	<Unicode>with</Unicode></TextEquiv></Word>
+	<Word id="r302">
+	<Coords points="954,93 993,93 993,108 954,108"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r303">
+	<Coords points="998,98 1041,98 1041,108 998,108"/>
+	<TextEquiv>
+	<Unicode>more</Unicode></TextEquiv></Word>
+	<Word id="r304">
+	<Coords points="1047,93 1168,93 1168,112 1047,112"/>
+	<TextEquiv>
+	<Unicode>group-focused</Unicode></TextEquiv></Word>
+	<Word id="r305">
+	<Coords points="1175,93 1204,93 1204,108 1175,108"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>havior. They would work with their more group-focused and</Unicode></TextEquiv></TextLine>
+	<TextLine id="r306">
+	<Coords points="690,116 987,116 987,131 917,131 917,135 690,135"/>
+	<Word id="r307">
+	<Coords points="690,116 788,116 788,135 690,135"/>
+	<TextEquiv>
+	<Unicode>cooperative</Unicode></TextEquiv></Word>
+	<Word id="r308">
+	<Coords points="794,116 847,116 847,131 794,131"/>
+	<TextEquiv>
+	<Unicode>fellow</Unicode></TextEquiv></Word>
+	<Word id="r309">
+	<Coords points="853,116 917,116 917,135 853,135"/>
+	<TextEquiv>
+	<Unicode>chimps,</Unicode></TextEquiv></Word>
+	<Word id="r310">
+	<Coords points="924,116 987,116 987,131 924,131"/>
+	<TextEquiv>
+	<Unicode>instead.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>cooperative fellow chimps, instead.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>one chimp tried to compete, the others tried to punish this be-
+havior. They would work with their more group-focused and
+cooperative fellow chimps, instead.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r311" type="paragraph">
+	<Coords points="689,158 1177,158 1177,163 1224,163 1224,204 1230,204 1230,223 1227,223 1227,242 1204,242 1204,246 1114,246 1114,242 943,242 943,245 889,245 889,246 871,246 871,265 768,265 768,269 711,269 711,265 689,265"/>
+	<TextLine id="r312">
+	<Coords points="689,158 1177,158 1177,163 1224,163 1224,173 1177,173 1177,177 1051,177 1051,173 919,173 919,177 777,177 777,173 689,173"/>
+	<Word id="r313">
+	<Coords points="689,158 740,158 740,173 689,173"/>
+	<TextEquiv>
+	<Unicode>When</Unicode></TextEquiv></Word>
+	<Word id="r314">
+	<Coords points="745,158 771,158 771,173 745,173"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r315">
+	<Coords points="777,158 837,158 837,177 777,177"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r316">
+	<Coords points="843,158 869,158 869,173 843,173"/>
+	<TextEquiv>
+	<Unicode>did</Unicode></TextEquiv></Word>
+	<Word id="r317">
+	<Coords points="876,158 919,158 919,177 876,177"/>
+	<TextEquiv>
+	<Unicode>ﬁght,</Unicode></TextEquiv></Word>
+	<Word id="r318">
+	<Coords points="926,158 937,158 937,173 926,173"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r319">
+	<Coords points="942,163 974,163 974,173 942,173"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv></Word>
+	<Word id="r320">
+	<Coords points="980,158 1023,158 1023,173 980,173"/>
+	<TextEquiv>
+	<Unicode>often</Unicode></TextEquiv></Word>
+	<Word id="r321">
+	<Coords points="1028,160 1044,160 1044,173 1028,173"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r322">
+	<Coords points="1051,160 1085,160 1085,177 1051,177"/>
+	<TextEquiv>
+	<Unicode>stop</Unicode></TextEquiv></Word>
+	<Word id="r323">
+	<Coords points="1091,158 1117,158 1117,173 1091,173"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r324">
+	<Coords points="1123,158 1177,158 1177,177 1123,177"/>
+	<TextEquiv>
+	<Unicode>overly</Unicode></TextEquiv></Word>
+	<Word id="r325">
+	<Coords points="1183,163 1224,163 1224,173 1183,173"/>
+	<TextEquiv>
+	<Unicode>com-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>When the chimps did ﬁght, it was often to stop the overly com-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r326">
+	<Coords points="689,181 819,181 819,183 953,183 953,181 1195,181 1195,196 1156,196 1156,200 689,200"/>
+	<Word id="r327">
+	<Coords points="689,181 753,181 753,200 689,200"/>
+	<TextEquiv>
+	<Unicode>petitive</Unicode></TextEquiv></Word>
+	<Word id="r328">
+	<Coords points="759,181 819,181 819,200 759,200"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r329">
+	<Coords points="825,186 842,186 842,196 825,196"/>
+	<TextEquiv>
+	<Unicode>or</Unicode></TextEquiv></Word>
+	<Word id="r330">
+	<Coords points="847,183 863,183 863,196 847,196"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r331">
+	<Coords points="869,183 933,183 933,200 869,200"/>
+	<TextEquiv>
+	<Unicode>prevent</Unicode></TextEquiv></Word>
+	<Word id="r332">
+	<Coords points="939,186 947,186 947,196 939,196"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r333">
+	<Coords points="953,181 1004,181 1004,200 953,200"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r334">
+	<Coords points="1011,181 1051,181 1051,196 1011,196"/>
+	<TextEquiv>
+	<Unicode>from</Unicode></TextEquiv></Word>
+	<Word id="r335">
+	<Coords points="1057,181 1156,181 1156,200 1057,200"/>
+	<TextEquiv>
+	<Unicode>freeloading.</Unicode></TextEquiv></Word>
+	<Word id="r336">
+	<Coords points="1163,181 1195,181 1195,196 1163,196"/>
+	<TextEquiv>
+	<Unicode>The</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>petitive chimps or to prevent a chimp from freeloading. The</Unicode></TextEquiv></TextLine>
+	<TextLine id="r337">
+	<Coords points="690,204 1230,204 1230,223 1193,223 1193,219 1036,219 1036,223 976,223 976,219 750,219 750,223 690,223"/>
+	<Word id="r338">
+	<Coords points="690,204 750,204 750,223 690,223"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r339">
+	<Coords points="756,204 782,204 782,219 756,219"/>
+	<TextEquiv>
+	<Unicode>did</Unicode></TextEquiv></Word>
+	<Word id="r340">
+	<Coords points="788,206 816,206 816,219 788,219"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r341">
+	<Coords points="822,204 853,204 853,219 822,219"/>
+	<TextEquiv>
+	<Unicode>like</Unicode></TextEquiv></Word>
+	<Word id="r342">
+	<Coords points="859,204 870,204 870,219 859,219"/>
+	<TextEquiv>
+	<Unicode>it</Unicode></TextEquiv></Word>
+	<Word id="r343">
+	<Coords points="875,204 921,204 921,219 875,219"/>
+	<TextEquiv>
+	<Unicode>when</Unicode></TextEquiv></Word>
+	<Word id="r344">
+	<Coords points="927,204 970,204 970,219 927,219"/>
+	<TextEquiv>
+	<Unicode>other</Unicode></TextEquiv></Word>
+	<Word id="r345">
+	<Coords points="976,204 1036,204 1036,223 976,223"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r346">
+	<Coords points="1041,204 1079,204 1079,219 1041,219"/>
+	<TextEquiv>
+	<Unicode>tried</Unicode></TextEquiv></Word>
+	<Word id="r347">
+	<Coords points="1085,206 1101,206 1101,219 1085,219"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r348">
+	<Coords points="1107,204 1142,204 1142,219 1107,219"/>
+	<TextEquiv>
+	<Unicode>take</Unicode></TextEquiv></Word>
+	<Word id="r349">
+	<Coords points="1147,204 1188,204 1188,219 1147,219"/>
+	<TextEquiv>
+	<Unicode>what</Unicode></TextEquiv></Word>
+	<Word id="r350">
+	<Coords points="1193,204 1230,204 1230,223 1193,223"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>chimps did not like it when other chimps tried to take what they</Unicode></TextEquiv></TextLine>
+	<TextLine id="r351">
+	<Coords points="690,227 1227,227 1227,242 1204,242 1204,246 1114,246 1114,242 943,242 943,245 889,245 889,246 839,246 839,242 690,242"/>
+	<Word id="r352">
+	<Coords points="690,227 716,227 716,242 690,242"/>
+	<TextEquiv>
+	<Unicode>did</Unicode></TextEquiv></Word>
+	<Word id="r353">
+	<Coords points="722,229 750,229 750,242 722,242"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r354">
+	<Coords points="755,227 799,227 799,242 755,242"/>
+	<TextEquiv>
+	<Unicode>work</Unicode></TextEquiv></Word>
+	<Word id="r355">
+	<Coords points="805,227 833,227 833,242 805,242"/>
+	<TextEquiv>
+	<Unicode>for.</Unicode></TextEquiv></Word>
+	<Word id="r356">
+	<Coords points="839,228 889,228 889,246 839,246"/>
+	<TextEquiv>
+	<Unicode>Many</Unicode></TextEquiv></Word>
+	<Word id="r357">
+	<Coords points="894,227 943,227 943,245 894,245"/>
+	<TextEquiv>
+	<Unicode>times,</Unicode></TextEquiv></Word>
+	<Word id="r358">
+	<Coords points="949,227 975,227 975,242 949,242"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r359">
+	<Coords points="981,227 1057,227 1057,242 981,242"/>
+	<TextEquiv>
+	<Unicode>scientists</Unicode></TextEquiv></Word>
+	<Word id="r360">
+	<Coords points="1063,232 1094,232 1094,242 1063,242"/>
+	<TextEquiv>
+	<Unicode>saw</Unicode></TextEquiv></Word>
+	<Word id="r361">
+	<Coords points="1100,232 1108,232 1108,242 1100,242"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<Word id="r362">
+	<Coords points="1114,227 1165,227 1165,246 1114,246"/>
+	<TextEquiv>
+	<Unicode>chimp</Unicode></TextEquiv></Word>
+	<Word id="r363">
+	<Coords points="1172,229 1204,229 1204,246 1172,246"/>
+	<TextEquiv>
+	<Unicode>step</Unicode></TextEquiv></Word>
+	<Word id="r364">
+	<Coords points="1211,227 1227,227 1227,242 1211,242"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>did not work for. Many times, the scientists saw a chimp step in</Unicode></TextEquiv></TextLine>
+	<TextLine id="r365">
+	<Coords points="711,250 871,250 871,265 768,265 768,269 711,269 711,265 689,265 689,252 711,252"/>
+	<Word id="r366">
+	<Coords points="689,252 705,252 705,265 689,265"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r367">
+	<Coords points="711,250 768,250 768,269 711,269"/>
+	<TextEquiv>
+	<Unicode>punish</Unicode></TextEquiv></Word>
+	<Word id="r368">
+	<Coords points="775,250 871,250 871,265 775,265"/>
+	<TextEquiv>
+	<Unicode>ﬁeeloaders.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>to punish ﬁeeloaders.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>When the chimps did ﬁght, it was often to stop the overly com-
+petitive chimps or to prevent a chimp from freeloading. The
+chimps did not like it when other chimps tried to take what they
+did not work for. Many times, the scientists saw a chimp step in
+to punish ﬁeeloaders.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r369" type="paragraph">
+	<Coords points="689,292 886,292 886,293 1095,293 1095,292 1169,292 1169,293 1222,293 1222,366 1226,366 1226,376 1212,376 1212,422 1194,422 1194,445 888,445 888,468 811,468 811,471 733,471 733,468 690,468 690,445 689,445"/>
+	<TextLine id="r370">
+	<Coords points="689,292 886,292 886,293 1095,293 1095,292 1169,292 1169,293 1222,293 1222,307 1169,307 1169,311 1095,311 1095,307 977,307 977,311 892,311 892,307 744,307 744,311 689,311"/>
+	<Word id="r371">
+	<Coords points="689,292 744,292 744,311 689,311"/>
+	<TextEquiv>
+	<Unicode>Plenty</Unicode></TextEquiv></Word>
+	<Word id="r372">
+	<Coords points="750,292 769,292 769,307 750,307"/>
+	<TextEquiv>
+	<Unicode>of</Unicode></TextEquiv></Word>
+	<Word id="r373">
+	<Coords points="773,292 816,292 816,307 773,307"/>
+	<TextEquiv>
+	<Unicode>other</Unicode></TextEquiv></Word>
+	<Word id="r374">
+	<Coords points="822,292 886,292 886,307 822,307"/>
+	<TextEquiv>
+	<Unicode>animals</Unicode></TextEquiv></Word>
+	<Word id="r375">
+	<Coords points="892,294 977,294 977,311 892,311"/>
+	<TextEquiv>
+	<Unicode>cooperate.</Unicode></TextEquiv></Word>
+	<Word id="r376">
+	<Coords points="983,293 1023,293 1023,307 983,307"/>
+	<TextEquiv>
+	<Unicode>Ants</Unicode></TextEquiv></Word>
+	<Word id="r377">
+	<Coords points="1029,297 1053,297 1053,307 1029,307"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r378">
+	<Coords points="1059,297 1089,297 1089,307 1059,307"/>
+	<TextEquiv>
+	<Unicode>one</Unicode></TextEquiv></Word>
+	<Word id="r379">
+	<Coords points="1095,292 1169,292 1169,311 1095,311"/>
+	<TextEquiv>
+	<Unicode>example.</Unicode></TextEquiv></Word>
+	<Word id="r380">
+	<Coords points="1175,293 1222,293 1222,307 1175,307"/>
+	<TextEquiv>
+	<Unicode>How-</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Plenty of other animals cooperate. Ants are one example. How-</Unicode></TextEquiv></TextLine>
+	<TextLine id="r381">
+	<Coords points="735,315 1192,315 1192,330 1081,330 1081,334 1011,334 1011,330 729,330 729,333 690,333 690,320 735,320"/>
+	<Word id="r382">
+	<Coords points="690,320 729,320 729,333 690,333"/>
+	<TextEquiv>
+	<Unicode>ever,</Unicode></TextEquiv></Word>
+	<Word id="r383">
+	<Coords points="735,315 761,315 761,330 735,330"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r384">
+	<Coords points="767,315 800,315 800,330 767,330"/>
+	<TextEquiv>
+	<Unicode>lead</Unicode></TextEquiv></Word>
+	<Word id="r385">
+	<Coords points="807,315 875,315 875,330 807,330"/>
+	<TextEquiv>
+	<Unicode>scientist</Unicode></TextEquiv></Word>
+	<Word id="r386">
+	<Coords points="880,315 936,315 936,330 880,330"/>
+	<TextEquiv>
+	<Unicode>Malini</Unicode></TextEquiv></Word>
+	<Word id="r387">
+	<Coords points="943,315 1005,315 1005,330 943,330"/>
+	<TextEquiv>
+	<Unicode>Suchak</Unicode></TextEquiv></Word>
+	<Word id="r388">
+	<Coords points="1011,315 1081,315 1081,334 1011,334"/>
+	<TextEquiv>
+	<Unicode>explains</Unicode></TextEquiv></Word>
+	<Word id="r389">
+	<Coords points="1086,315 1118,315 1118,330 1086,330"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r390">
+	<Coords points="1124,317 1157,317 1157,330 1124,330"/>
+	<TextEquiv>
+	<Unicode>ants</Unicode></TextEquiv></Word>
+	<Word id="r391">
+	<Coords points="1163,315 1192,315 1192,330 1163,330"/>
+	<TextEquiv>
+	<Unicode>and</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ever, the lead scientist Malini Suchak explains that ants and</Unicode></TextEquiv></TextLine>
+	<TextLine id="r392">
+	<Coords points="736,338 1181,338 1181,343 1222,343 1222,357 1187,357 1187,353 1058,353 1058,357 854,357 854,353 689,353 689,340 736,340"/>
+	<Word id="r393">
+	<Coords points="689,340 730,340 730,353 689,353"/>
+	<TextEquiv>
+	<Unicode>most</Unicode></TextEquiv></Word>
+	<Word id="r394">
+	<Coords points="736,338 779,338 779,353 736,353"/>
+	<TextEquiv>
+	<Unicode>other</Unicode></TextEquiv></Word>
+	<Word id="r395">
+	<Coords points="785,338 849,338 849,353 785,353"/>
+	<TextEquiv>
+	<Unicode>animals</Unicode></TextEquiv></Word>
+	<Word id="r396">
+	<Coords points="854,338 912,338 912,357 854,357"/>
+	<TextEquiv>
+	<Unicode>mostly</Unicode></TextEquiv></Word>
+	<Word id="r397">
+	<Coords points="917,338 953,338 953,357 917,357"/>
+	<TextEquiv>
+	<Unicode>help</Unicode></TextEquiv></Word>
+	<Word id="r398">
+	<Coords points="959,338 998,338 998,353 959,353"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r399">
+	<Coords points="1004,338 1058,338 1058,357 1004,357"/>
+	<TextEquiv>
+	<Unicode>family</Unicode></TextEquiv></Word>
+	<Word id="r400">
+	<Coords points="1063,338 1143,338 1143,353 1063,353"/>
+	<TextEquiv>
+	<Unicode>members.</Unicode></TextEquiv></Word>
+	<Word id="r401">
+	<Coords points="1150,338 1181,338 1181,353 1150,353"/>
+	<TextEquiv>
+	<Unicode>She</Unicode></TextEquiv></Word>
+	<Word id="r402">
+	<Coords points="1187,343 1222,343 1222,357 1187,357"/>
+	<TextEquiv>
+	<Unicode>says</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>most other animals mostly help their family members. She says</Unicode></TextEquiv></TextLine>
+	<TextLine id="r403">
+	<Coords points="689,361 1196,361 1196,366 1226,366 1226,376 1196,376 1196,380 1021,380 1021,376 867,376 867,380 819,380 819,376 689,376"/>
+	<Word id="r404">
+	<Coords points="689,361 715,361 715,376 689,376"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r405">
+	<Coords points="721,363 754,363 754,376 721,376"/>
+	<TextEquiv>
+	<Unicode>ants</Unicode></TextEquiv></Word>
+	<Word id="r406">
+	<Coords points="760,361 780,361 780,376 760,376"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r407">
+	<Coords points="786,363 814,363 814,376 786,376"/>
+	<TextEquiv>
+	<Unicode>not</Unicode></TextEquiv></Word>
+	<Word id="r408">
+	<Coords points="819,361 867,361 867,380 819,380"/>
+	<TextEquiv>
+	<Unicode>really</Unicode></TextEquiv></Word>
+	<Word id="r409">
+	<Coords points="872,361 917,361 917,376 872,376"/>
+	<TextEquiv>
+	<Unicode>think</Unicode></TextEquiv></Word>
+	<Word id="r410">
+	<Coords points="923,361 970,361 970,376 923,376"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="r411">
+	<Coords points="975,361 1016,361 1016,376 975,376"/>
+	<TextEquiv>
+	<Unicode>what</Unicode></TextEquiv></Word>
+	<Word id="r412">
+	<Coords points="1021,361 1058,361 1058,380 1021,380"/>
+	<TextEquiv>
+	<Unicode>they</Unicode></TextEquiv></Word>
+	<Word id="r413">
+	<Coords points="1064,366 1088,366 1088,376 1064,376"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r414">
+	<Coords points="1094,361 1146,361 1146,380 1094,380"/>
+	<TextEquiv>
+	<Unicode>doing.</Unicode></TextEquiv></Word>
+	<Word id="r415">
+	<Coords points="1153,361 1196,361 1196,380 1153,380"/>
+	<TextEquiv>
+	<Unicode>They</Unicode></TextEquiv></Word>
+	<Word id="r416">
+	<Coords points="1202,366 1226,366 1226,376 1202,376"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the ants do not really think about what they are doing. They are</Unicode></TextEquiv></TextLine>
+	<TextLine id="r417">
+	<Coords points="690,384 1211,384 1211,399 1153,399 1153,403 1107,403 1107,399 939,399 939,403 690,403"/>
+	<Word id="r418">
+	<Coords points="690,384 764,384 764,403 690,403"/>
+	<TextEquiv>
+	<Unicode>basically</Unicode></TextEquiv></Word>
+	<Word id="r419">
+	<Coords points="769,384 875,384 875,403 769,403"/>
+	<TextEquiv>
+	<Unicode>programmed</Unicode></TextEquiv></Word>
+	<Word id="r420">
+	<Coords points="881,386 897,386 897,399 881,399"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r421">
+	<Coords points="903,384 939,384 939,403 903,403"/>
+	<TextEquiv>
+	<Unicode>help</Unicode></TextEquiv></Word>
+	<Word id="r422">
+	<Coords points="945,384 984,384 984,399 945,399"/>
+	<TextEquiv>
+	<Unicode>their</Unicode></TextEquiv></Word>
+	<Word id="r423">
+	<Coords points="989,384 1064,384 1064,399 989,399"/>
+	<TextEquiv>
+	<Unicode>relatives.</Unicode></TextEquiv></Word>
+	<Word id="r424">
+	<Coords points="1070,385 1101,385 1101,399 1070,399"/>
+	<TextEquiv>
+	<Unicode>Her</Unicode></TextEquiv></Word>
+	<Word id="r425">
+	<Coords points="1107,384 1153,384 1153,403 1107,403"/>
+	<TextEquiv>
+	<Unicode>study</Unicode></TextEquiv></Word>
+	<Word id="r426">
+	<Coords points="1159,384 1211,384 1211,399 1159,399"/>
+	<TextEquiv>
+	<Unicode>shows</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>basically programmed to help their relatives. Her study shows</Unicode></TextEquiv></TextLine>
+	<TextLine id="r427">
+	<Coords points="689,407 1212,407 1212,422 1160,422 1160,426 758,426 758,422 689,422"/>
+	<Word id="r428">
+	<Coords points="689,407 721,407 721,422 689,422"/>
+	<TextEquiv>
+	<Unicode>that</Unicode></TextEquiv></Word>
+	<Word id="r429">
+	<Coords points="726,407 752,407 752,422 726,422"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r430">
+	<Coords points="758,407 818,407 818,426 758,426"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r431">
+	<Coords points="824,412 848,412 848,422 824,422"/>
+	<TextEquiv>
+	<Unicode>are</Unicode></TextEquiv></Word>
+	<Word id="r432">
+	<Coords points="854,407 920,407 920,426 854,426"/>
+	<TextEquiv>
+	<Unicode>actually</Unicode></TextEquiv></Word>
+	<Word id="r433">
+	<Coords points="925,407 997,407 997,426 925,426"/>
+	<TextEquiv>
+	<Unicode>thinking</Unicode></TextEquiv></Word>
+	<Word id="r434">
+	<Coords points="1003,407 1050,407 1050,422 1003,422"/>
+	<TextEquiv>
+	<Unicode>about</Unicode></TextEquiv></Word>
+	<Word id="r435">
+	<Coords points="1056,407 1160,407 1160,426 1056,426"/>
+	<TextEquiv>
+	<Unicode>cooperation.</Unicode></TextEquiv></Word>
+	<Word id="r436">
+	<Coords points="1166,407 1212,407 1212,422 1166,422"/>
+	<TextEquiv>
+	<Unicode>What</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>that the chimps are actually thinking about cooperation. What</Unicode></TextEquiv></TextLine>
+	<TextLine id="r437">
+	<Coords points="689,430 1194,430 1194,445 781,445 781,449 721,449 721,445 689,445"/>
+	<Word id="r438">
+	<Coords points="689,430 715,430 715,445 689,445"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<Word id="r439">
+	<Coords points="721,430 781,430 781,449 721,449"/>
+	<TextEquiv>
+	<Unicode>chimps</Unicode></TextEquiv></Word>
+	<Word id="r440">
+	<Coords points="787,430 807,430 807,445 787,445"/>
+	<TextEquiv>
+	<Unicode>do</Unicode></TextEquiv></Word>
+	<Word id="r441">
+	<Coords points="814,430 827,430 827,445 814,445"/>
+	<TextEquiv>
+	<Unicode>is</Unicode></TextEquiv></Word>
+	<Word id="r442">
+	<Coords points="832,430 878,430 878,445 832,445"/>
+	<TextEquiv>
+	<Unicode>much</Unicode></TextEquiv></Word>
+	<Word id="r443">
+	<Coords points="885,430 934,430 934,445 885,445"/>
+	<TextEquiv>
+	<Unicode>closer</Unicode></TextEquiv></Word>
+	<Word id="r444">
+	<Coords points="939,432 955,432 955,445 939,445"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r445">
+	<Coords points="961,430 1019,430 1019,445 961,445"/>
+	<TextEquiv>
+	<Unicode>human</Unicode></TextEquiv></Word>
+	<Word id="r446">
+	<Coords points="1025,430 1099,430 1099,445 1025,445"/>
+	<TextEquiv>
+	<Unicode>behavior</Unicode></TextEquiv></Word>
+	<Word id="r447">
+	<Coords points="1104,430 1141,430 1141,445 1104,445"/>
+	<TextEquiv>
+	<Unicode>than</Unicode></TextEquiv></Word>
+	<Word id="r448">
+	<Coords points="1146,432 1162,432 1162,445 1146,445"/>
+	<TextEquiv>
+	<Unicode>to</Unicode></TextEquiv></Word>
+	<Word id="r449">
+	<Coords points="1168,430 1194,430 1194,445 1168,445"/>
+	<TextEquiv>
+	<Unicode>the</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>the chimps do is much closer to human behavior than to the</Unicode></TextEquiv></TextLine>
+	<TextLine id="r450">
+	<Coords points="733,453 888,453 888,468 811,468 811,471 733,471 733,468 690,468 690,454 733,454"/>
+	<Word id="r451">
+	<Coords points="690,454 726,454 726,468 690,468"/>
+	<TextEquiv>
+	<Unicode>ants’</Unicode></TextEquiv></Word>
+	<Word id="r452">
+	<Coords points="733,453 811,453 811,471 733,471"/>
+	<TextEquiv>
+	<Unicode>behavior,</Unicode></TextEquiv></Word>
+	<Word id="r453">
+	<Coords points="818,453 845,453 845,468 818,468"/>
+	<TextEquiv>
+	<Unicode>she</Unicode></TextEquiv></Word>
+	<Word id="r454">
+	<Coords points="851,453 888,453 888,468 851,468"/>
+	<TextEquiv>
+	<Unicode>said.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ants’ behavior, she said.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Plenty of other animals cooperate. Ants are one example. How-
+ever, the lead scientist Malini Suchak explains that ants and
+most other animals mostly help their family members. She says
+the ants do not really think about what they are doing. They are
+basically programmed to help their relatives. Her study shows
+that the chimps are actually thinking about cooperation. What
+the chimps do is much closer to human behavior than to the
+ants’ behavior, she said.</Unicode></TextEquiv></TextRegion></Page></PcGts>
