@@ -52,18 +52,20 @@ More details are provided in the file: “metadata.txt”.
 The content of this file is described here:
 
 
+Label | Meaning
+----- | -------
 
-**Text**: the name of the text.
-**Author**: the journal from where the text was originally published.
-**Adaptation**: who modified the text to adapt its difficulty to different grade level.
-**Grade level**: difficulty of the texts (by school grade).
-**Word count**: the number of words.
-**Lexile**: difficulty of the text (Newsela Lexile scale).
-**Link**: url of the text.
-**Scenario**: None (no rereading, no skipping), Rereading, Skipping, Layout (the layout of the text is different), SideExp (equivalent to “None”).
-**Read Word Count**: number of words read by the reader (Greater in the Rereading scenario, Less in the Skipping scenario compared to “Word Count”).
+**Text** | the name of the text.
+**Author** | the journal from where the text was originally published.
+**Adaptation** | who modified the text to adapt its difficulty to different grade level.
+**Grade level** | difficulty of the texts (by school grade).
+**Word count** | the number of words.
+**Lexile** | difficulty of the text (Newsela Lexile scale).
+**Link** | url of the text.
+**Scenario** | *None* (no rereading, no skipping), *Rereading*, *Skipping*, *Layout* (the layout of the text is different), *SideExp* (equivalent to “None”).
+**Read Word Count** | number of words read by the reader (Greater in the Rereading scenario, Less in the Skipping scenario compared to “Word Count”).
 
-*Files organization*
+###### Files organization
 The first folder (eg: 08.11) corresponds to the day of recording.
 The next folder is the participant Number.
 In this folder is also included a file “log” where the beginning and the end of the reading session is written (start and end time, date).
