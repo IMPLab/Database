@@ -38,7 +38,7 @@ All these corpus had a strong impact on the reading behavior research because th
 The details are given below:
 
 # The IMLAB database
-The database corresponds to the experiment presented in the paper [Wordometer systems for everyday life](https://dl.acm.org/citation.cfm?doid=3178157.3161601). In this experiment 14 non-native English speakers from various nationalities were asked to read English texts. Their eye movements were recorded by several sensors:  Tobii Eye X, JINS MEME, Pupil, SMI RED250, SMI mobile eye tracker. All the texts were extracted from the website Newsela. That website provides news with different grades of English difficulty.
+The database corresponds to the experiment presented in the paper [Wordometer systems for everyday life](https://dl.acm.org/citation.cfm?doid=3178157.3161601). In this experiment 14 non-native English speakers from various nationalities were asked to read English texts. Their eye movements were recorded by several sensors:  [Tobii Eye X](https://tobiigaming.com/), [JINS MEME](https://jins-meme.com/en/academic/), [Pupil](https://pupil-labs.com/pupil/), [SMI RED250](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250-red-500.html), [SMI mobile eye tracker](http://www.eyetracking-glasses.com/). All the texts were extracted from the website Newsela. That website provides news with different grades of English difficulty.
 The readers were asked to follow the experimenter instructions regarding the way of reading the texts.
 Three scenarios could occur:
 - The reader was asked to read the text carefully, without rereading nor skipping.
@@ -68,9 +68,9 @@ Label | Meaning
 The first folder (eg: 08.11) corresponds to the day of recording.
 The next folder is the participant number (all files have been anonymised).
 In the folder of each participant is included the device used to record the participant eye movements (one folder for each device).
-In each of the device-folder is included the raw recording of the eye gaze (csv format), a log file (start and end time, date), and the png file of the read texts.
-The csv file is named following the notation “nameOfText_device.csv” or "nameOfText_device.csv.txt" where "nameOfText" is the name of the text as described in metadata.txt and "device" is the deviced used.
-The details of each csv file can be retrieved in the corresponding device manufacturer website.
+In each of the device-folder is included the raw recording of the eye gaze (csv or txt format), a log file (start and end time, date), and the png file of the read texts.
+The csv (or txt) files are named following the notation “nameOfText_device.csv” or "nameOfText_device.txt" where "nameOfText" is the name of the text as described in metadata.txt and "device" is the deviced used.
+The details of each csv (or txt) file can be retrieved in the corresponding device manufacturer website.
 
 
 
