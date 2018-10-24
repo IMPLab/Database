@@ -69,7 +69,7 @@ The first folder (eg: 08.11) corresponds to the day of recording.
 The next folder is the participant number (all files have been anonymised).
 In the folder of each participant is included the device used to record the participant eye movements (one folder for each device).
 In each of the device-folder is included the raw recording of the eye gaze (csv format), a log file (start and end time, date), and the png file of the read texts.
-The csv file is named following the notation “nameOfText_device.csv” where "nameOfText" is the name of the text as described in metadata.txt and "device" is the deviced used.
+The csv file is named following the notation “nameOfText_device.csv” or "nameOfText_device.csv.txt" where "nameOfText" is the name of the text as described in metadata.txt and "device" is the deviced used.
 The details of each csv file can be retrieved in the corresponding device manufacturer website.
 
 
