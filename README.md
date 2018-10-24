@@ -34,7 +34,7 @@ Each text contained about 50 000 words.
 This corpus is available on demand.
 
 
-All these corpus had a strong impact on the reading behavior research because they gathered dozens of participants reading very long texts. However, they suffer from several drawbacks: the raw eye gaze data is not included, and they use only professional devices which are unlikely to be used in an everyday life environment. Here, we present our own database, the IMLAB database, which is meant to be a contribution to sharing of eye tracking database.
+All these corpus had a strong impact on the reading behavior research because they gathered dozens of participants reading very long texts. However, they suffer from several drawbacks: the raw eye gaze data is not included, and they use only professional devices which are unlikely to be used in an everyday life environment. Here, we present our own database, the IMLAB database.
 The details are given below:
 
 # The IMLAB database
