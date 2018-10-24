@@ -38,7 +38,7 @@ All these corpus had a strong impact on the reading behavior research because th
 The details are given below:
 
 # The IMLAB database
-The database corresponds to the experiment presented in the paper [Wordometer systems for everyday life](https://dl.acm.org/citation.cfm?doid=3178157.3161601). In this experiment 14 non-native English speakers from various nationalities were asked to read English texts. Their eye movements were recorded by several sensors:  [Tobii Eye X](https://tobiigaming.com/), [JINS MEME](https://jins-meme.com/en/academic/), [Pupil](https://pupil-labs.com/pupil/), [SMI RED250](http://www.smivision.com/en/gaze-and-eye-tracking-systems/products/red250-red-500.html), [SMI mobile eye tracker](http://www.eyetracking-glasses.com/). All the texts were extracted from the website Newsela. That website provides news with different grades of English difficulty.
+The database corresponds to the experiment presented in the paper [Wordometer systems for everyday life](https://dl.acm.org/citation.cfm?doid=3178157.3161601). In this experiment 14 non-native English speakers from various nationalities were asked to read English texts. Their eye movements were recorded by several sensors:  [Tobii Eye X](https://tobiigaming.com/), [JINS MEME](https://jins-meme.com/en/academic/), [Pupil](https://pupil-labs.com/pupil/), [SMI RED250](https://www.smivision.com/), [SMI mobile eye tracker](https://www.smivision.com/). All the texts were extracted from the website Newsela. That website provides news with different grades of English difficulty.
 The readers were asked to follow the experimenter instructions regarding the way of reading the texts.
 Three scenarios could occur:
 - The reader was asked to read the text carefully, without rereading nor skipping.
